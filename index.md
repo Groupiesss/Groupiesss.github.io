@@ -1,3 +1,4 @@
+
 # About Me
 * Gary Gao, born July, 2004 in NRW, Germany.
 * Email: garygao@stu.pku.edu.cn
@@ -7,5 +8,5 @@
 # Lecture Notes
 * Intro to Data Science, 2021W: 
 * Information Technology and Application (aka Office Automatation), 2021W: 
-* Intro to Philosophy, 2021W:
+* Intro to Philosophy, 2021W: [NOTE](https://github.com/Groupiesss/Groupiesss.github.io/blob/main/lecture/Final%20Exam%20Review.pdf)
 * Ideological & Moral Culture and Laws, 2021W: 
