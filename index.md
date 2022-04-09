@@ -8,7 +8,7 @@
 * BBA in Big Data Management and Application, 2021-NOW, Department of Information Management, Peking University.
 
 # Lecture Notes
-* Intro to Data Science, 2021W: 
-* Information Technology and Application (aka Office Automatation), 2021W: 
+* Intro to Data Science, 2021W: [NOTE](https://groupiesss.github.io/lecture/%E6%95%B0%E7%A7%91%E5%AF%BC%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
+* Information Technology and Application (aka Office Automatation), 2021W: [NOTE](https://groupiesss.github.io/lecture/OA%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
 * Intro to Philosophy, 2021W: 
 * Ideological & Moral Culture and Laws, 2021W: 
