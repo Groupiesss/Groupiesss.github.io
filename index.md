@@ -24,7 +24,7 @@
 * Linear Algebra B
 
 ## 2022SS
-* Analytical Techniques of Data
+* Analytical Techniques of Data [NOTE](https://groupiesss.github.io/lecture/SPSS.pdf)
 * Calculus B2
 * Data Analytics with Python
 * Data Structure and Algorithm B
