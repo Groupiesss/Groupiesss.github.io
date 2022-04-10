@@ -10,7 +10,9 @@
 * BBA in Big Data Management and Application, 2021-NOW, Department of Information Management, Peking University.
 * BEc in Economics, 2022-NOW, National School of Development, Peking University.
 
+***
 # Lecture Notes
+
 ## 2021WS
 * Calculus B1
 * Global Cultural Geography
@@ -20,6 +22,13 @@
 * Intro to Data Science [NOTE](https://groupiesss.github.io/lecture/%E6%95%B0%E7%A7%91%E5%AF%BC%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
 * Intro to Philosophy [PT1](https://groupiesss.github.io/lecture/Final%20Exam%20Review%20Pt.1%20Sebastian%20Sunday%20Gr%C3%A9ve.pdf) [PT2](https://groupiesss.github.io/lecture/Final%20Exam%20Review%20Pt.2%20Julius%20Schoenherr.pdf)
 * Linear Algebra B
+
 ## 2022SS
+* Analytical Techniques of Data
+* Calculus B2
+* Data Analytics with Python
+* Data Structure and Algorithm B
+* Military Theory
 * Organization of Information
 * Priciple of Economics
+* Probability Theory and Mathematical Statistics
