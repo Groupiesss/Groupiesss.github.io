@@ -15,7 +15,7 @@
 
 ## 2021WS
 * Calculus B1
-* Global Cultural Geography
+* Global Cultural Geography [NOTE](https://groupiesss.github.io/lecture/WCG.pdf)
 * Ideological & Moral Culture and Laws [NOTE](https://groupiesss.github.io/lecture/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB.pdf)
 * Information Technology and Application (aka Office Automatation) [NOTE](https://groupiesss.github.io/lecture/OA%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
 * Intro to Computing A
