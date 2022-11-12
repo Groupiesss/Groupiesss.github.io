@@ -32,3 +32,20 @@
 * Organization of Information
 * Priciple of Economics
 * Probability Theory and Mathematical Statistics
+
+## 2022SSI
+* Applied Econometrics
+* Spanish Language and Culture
+
+## 2022WS
+* A Survey of Mao Tsetung Thoughts and Theory of Socialism with Chinese Characteristics
+* Basics of Computer Networks
+* Database Systems
+* Econometrics
+* Financial Accounting
+* Intermediate Macroeconomics
+* Introduction to Complex Networks: Theories and Practices
+* Machine Learning
+* Object-oriented Programming with Java
+* Operations Research
+* Squash
