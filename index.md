@@ -29,7 +29,7 @@
 * Data Analytics with Python
 * Data Structure and Algorithm B
 * Military Theory
-* Organization of Information
+* Organization of Information [NOTE](https://github.com/Groupiesss/Groupiesss.github.io/blob/main/lecture/%E4%BF%A1%E6%81%AF%E7%BB%84%E7%BB%87.pdf)
 * Priciple of Economics
 * Probability Theory and Mathematical Statistics
 
