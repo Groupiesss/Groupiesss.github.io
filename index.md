@@ -18,9 +18,10 @@
 * Global Cultural Geography [NOTE](https://groupiesss.github.io/lecture/WCG.pdf)
 * Ideological & Moral Culture and Laws [NOTE](https://groupiesss.github.io/lecture/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB.pdf)
 * Information Technology and Application (aka Office Automatation) [NOTE](https://groupiesss.github.io/lecture/OA%20%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
-* Intro to Computing A
-* Intro to Data Science [NOTE](https://groupiesss.github.io/lecture/%E6%95%B0%E7%A7%91%E5%AF%BC%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
-* Intro to Philosophy [PT1](https://groupiesss.github.io/lecture/Final%20Exam%20Review%20Pt.1%20Sebastian%20Sunday%20Gr%C3%A9ve.pdf) [PT2](https://groupiesss.github.io/lecture/Final%20Exam%20Review%20Pt.2%20Julius%20Schoenherr.pdf)
+* Introduction to Computing A
+* Introduction to Data Science [NOTE](https://groupiesss.github.io/lecture/%E6%95%B0%E7%A7%91%E5%AF%BC%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)
+* Introduction to Philosophy [PT1](https://groupiesss.github.io/lecture/Final%20Exam%20Review%20Pt.1%20Sebastian%20Sunday%20Gr%C3%A9ve.pdf) [PT2](https://groupiesss.github.io/lecture/Final%20Exam%20Review%20Pt.2%20Julius%20Schoenherr.pdf)
+  * An introductory course for analytical philosophy, conducted by three foreign teachers. Prof. Sebastian Greve gave the overall introduction to analytical philosophy and topics about paradox and ethics. Prof. Julius Schoenherr introduced topics in philosophy of mind, ranging from physicalism, consciousness, intentionality and representaion. Prof. Arthur Schipper discussed topics in epistemology, including justification, perception, induction and skepticism.
 * Linear Algebra B
 
 ## 2022Spring
