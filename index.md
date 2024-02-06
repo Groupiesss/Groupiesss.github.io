@@ -80,4 +80,4 @@
 * COMP 2711: Discrete Mathematical Tools for Computer Science
 * COMP 4332/RMBI 4310: Big Data Mining and Management/Advanced Data Mining for RMBI
 * FINA 3203: Derivative Securities
-* ISOM 4540 Time Series Analysis and Forecasting
+* ISOM 4540: Time Series Analysis and Forecasting
